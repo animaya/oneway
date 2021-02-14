@@ -10,3 +10,5 @@ print(fields)
 print(homedir)
 
 print(name)
+
+print(homedir * 9)

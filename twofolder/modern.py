@@ -5,3 +5,5 @@ b = 890000
 result = a + b
 
 print(result)
+
+print(min(a,b))
