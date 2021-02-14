@@ -5,3 +5,5 @@ name, *fields, homedir, path = line.split(":")
 print(fields)
 
 print(homedir)
+
+print(name)
