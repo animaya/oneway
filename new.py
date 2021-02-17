@@ -12,3 +12,7 @@ print(homedir)
 print(name)
 
 print(homedir * 9)
+
+
+for i in range(250000):
+  print(i ** i)
